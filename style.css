@@ -1,0 +1,57 @@
+.logo {
+    width: 77px;
+  height: 145px;
+  }
+  .work1 {
+    background: #FFE59A;
+    position: absolute;
+    width: 578px;
+    height: 254px;
+    left: 42px;
+    top: 547px;
+    color: #6E6E6E
+  }
+  .title {
+    color: #222222
+  }
+  .usmob-mockup {
+    position: absolute;
+    top: 0px;
+    left: 220px;
+  }
+  .work2 {
+    background: #A39382;
+    position: absolute;
+    width: 578px;
+    height: 254px;
+    left: 654px;
+    top: 547px;
+    color: white
+  }
+  .title {
+    color: white
+    font-weight 700;
+    font-size: 34px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .fcmob-mockup {
+    position: absolute;
+    top: 30px;
+    left: 225px;
+  }
+  .content {
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .header {
+    position: absolute;
+    background-color: #F9F9F9;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 53, 53)
+  }
+  
